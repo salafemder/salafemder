@@ -1,8 +1,8 @@
 # Howdy! I’m Aden
 
-- 👋: I am a self-taught programmer with a focus on website development
+- 👋 I am a self-taught programmer with a focus on website development
 - Currently learning and working with javascript and node.js
-- 🩷Passionate about keeping the web accessible
+- 🩷 Passionate about accessibility, responsive design, and an open web!
  
 
 <!---
