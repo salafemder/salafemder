@@ -1,6 +1,6 @@
-# Howdy! I’m Aden
+# Salafemder ^~^
 
-- 👋 I am a self-taught programmer with a focus on website development
+- I don't really have much in the way of public repos, this is largely my private codespace.
  
 
 <!---
